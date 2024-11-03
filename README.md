@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradyuman Sharma</h1>
 <h3 align="center">MERN and NextJs Developer, Blockchain Developer</h3>
 
-- 🔭 I’m currently working in [Few Technologies](https://github.com/Fewtchnologies)
+- 🔭 I’m currently working in [Few Technologies](https://www.linkedin.com/in/few-technologies-505466325/)
 
 - 🌱 I’m currently learning **Move and Aptos**
 
